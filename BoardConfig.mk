@@ -31,9 +31,6 @@ QCOM_BT_USE_SMD_TTY := true
 # Display
 TARGET_SCREEN_DENSITY := 420
 
-# Kernel
-TARGET_KERNEL_CONFIG += r8s.config
-
 # OTA
 TARGET_OTA_ASSERT_DEVICE := r8s
 
